@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90e86b5-1e58-4d35-927f-d6bae3283485" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interview_prep/puzzles/linked_list.py" afterPath="$PROJECT_DIR$/interview_prep/puzzles/linked_list.py" />
-    </list>
+    <list default="true" id="b90e86b5-1e58-4d35-927f-d6bae3283485" name="Default" comment="" />
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="linked_list.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/interview_prep/puzzles/linked_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5589041" vertical-offset="0" max-vertical-offset="1326">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="24" />
+            <state vertical-scroll-proportion="-1.980822" vertical-offset="961" max-vertical-offset="1326">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -512,7 +510,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="0" width="1340" height="738" extended-state="0" />
+    <frame x="26" y="0" width="1340" height="738" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -636,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interview_prep/puzzles/linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5589041" vertical-offset="0" max-vertical-offset="1326">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="24" />
+        <state vertical-scroll-proportion="-1.980822" vertical-offset="961" max-vertical-offset="1326">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
