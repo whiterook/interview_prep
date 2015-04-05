@@ -54,12 +54,6 @@ class Node:
 
 
 def main():
-    # head = Node(2)
-    # head.append_to_tail(1)
-    # head.append_to_tail(6)
-    # head.append_to_tail(0)
-    # head.append_to_tail(5)
-    # head.append_to_tail(4)
     head = Node.fill_from_string('2 1 6 0 5 4')
     head.print_list()
     third_to_last = head.nth_to_last(3)
